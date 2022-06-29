@@ -1,0 +1,46 @@
+/Users/grigory/Projects/FileManager/FileManager/bin/Debug/net5.0/FileManager.deps.json
+/Users/grigory/Projects/FileManager/FileManager/bin/Debug/net5.0/FileManager.runtimeconfig.json
+/Users/grigory/Projects/FileManager/FileManager/bin/Debug/net5.0/FileManager.runtimeconfig.dev.json
+/Users/grigory/Projects/FileManager/FileManager/bin/Debug/net5.0/FileManager.dll
+/Users/grigory/Projects/FileManager/FileManager/bin/Debug/net5.0/ref/FileManager.dll
+/Users/grigory/Projects/FileManager/FileManager/bin/Debug/net5.0/FileManager.pdb
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/FileManager.csproj.AssemblyReference.cache
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/FileManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/FileManager.AssemblyInfoInputs.cache
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/FileManager.AssemblyInfo.cs
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/FileManager.csproj.CoreCompileInputs.cache
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/FileManager.dll
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/ref/FileManager.dll
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/FileManager.pdb
+/Users/grigory/Projects/FileManager/FileManager/obj/Debug/net5.0/FileManager.genruntimeconfig.cache
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/bin/Debug/net5.0/FileManager.deps.json
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/bin/Debug/net5.0/FileManager.runtimeconfig.json
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/bin/Debug/net5.0/FileManager.runtimeconfig.dev.json
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/bin/Debug/net5.0/FileManager.dll
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/bin/Debug/net5.0/ref/FileManager.dll
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/bin/Debug/net5.0/FileManager.pdb
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/FileManager.csproj.AssemblyReference.cache
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/FileManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/FileManager.AssemblyInfoInputs.cache
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/FileManager.AssemblyInfo.cs
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/FileManager.csproj.CoreCompileInputs.cache
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/FileManager.dll
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/ref/FileManager.dll
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/FileManager.pdb
+/Users/grigory/Desktop/PeerGrade ВШЭ/FileManager/FileManager/obj/Debug/net5.0/FileManager.genruntimeconfig.cache
+C:\Users\Grigory\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.exe
+C:\Users\Grigory\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.deps.json
+C:\Users\Grigory\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+C:\Users\Grigory\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+C:\Users\Grigory\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.dll
+C:\Users\Grigory\Desktop\FileManager\FileManager\bin\Debug\net5.0\ref\FileManager.dll
+C:\Users\Grigory\Desktop\FileManager\FileManager\bin\Debug\net5.0\FileManager.pdb
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.dll
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\ref\FileManager.dll
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.pdb
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache
+C:\Users\Grigory\Desktop\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
